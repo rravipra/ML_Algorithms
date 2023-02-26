@@ -2,7 +2,7 @@
 
 In this repository I will be adding my version of implementing some of the well known Machine Learning Algorithms from scratch.
 
-#Contents
+# Contents
 
 As of now I have:
 
